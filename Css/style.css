@@ -5,6 +5,16 @@
  *
  * Made By MaterializeCSS.com
  */
+ .flag{
+  height: 50px;
+  margin: 5px;
+}
+
+.flag-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 
 nav ul a,
 nav .brand-logo {
